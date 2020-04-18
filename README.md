@@ -6,6 +6,8 @@ Estas ankaoraŭ MacOS Klavararanĝo por Esperanto, kun pli konsekvenca bildsimbo
 
 ![aranĝo](layout.png)
 
+Oni povas havigi fontan dosieron de la bildsimbolo [ĉi tie](https://cdn.patrickwu.space/works/esperanto/source.psd).
+
 ## Instalado
 
 1. Elekti `dark.icns` por malluma bildsimbolo aŭ `light.icns` por luma bildsimbolo, tiam kopii kaj anstatauigi `./Esperanto.bundle/Contents/Resources/Esperanto (ŜĜERTŬ).icns`
@@ -16,7 +18,7 @@ Estas ankaoraŭ MacOS Klavararanĝo por Esperanto, kun pli konsekvenca bildsimbo
 
 MIT.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />La bildsimbolo estas disponebla laŭ la permesilo <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Krea Komunaĵo Atribuite-Samkondiĉe 4.0 Tutmonda</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />La bildsimbolo estas disponebla laŭ la permesilo <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Krea Komunaĵo Atribuite-Samkondiĉe 4.0 Tutmonda</a>. 
 
 # Esperanto MacOS Kyborad Layout
 
@@ -25,6 +27,8 @@ This is another MacOS Kyborad Layout for Esperanto with a more consistent icon.
 This keyboard layout uses ŜĜERTŬ layout:
 
 ![layout](layout.png)
+
+You can get the source file of the icon [here](https://cdn.patrickwu.space/works/esperanto/source.psd).
 
 ## Installation
 
